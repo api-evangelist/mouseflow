@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Mouseflow is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://mouseflow.com/
+Mouseflow provides behavior analytics and session replay tools that help website owners understand user interactions, identify friction points, and improve conversion rates. Their platform offers heatmaps, funnel analysis, AI‑driven insights, and feedback surveys, enabling data‑driven UX optimization for businesses of all sizes.
+
+**Areas:** Company
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://mouseflow.com/)
+- [Documentation](https://api-docs.mouseflow.com/)
+- [Pricing](https://mouseflow.com/pricing/)
+- [Support](https://help.mouseflow.com/)
+- [Blog](https://mouseflow.com/blog/)
+- [Terms of service](https://mouseflow.com/legal/terms/)
+- [Privacy policy](https://mouseflow.com/legal/privacy-policy/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/mouseflow/](https://apis.io/providers/mouseflow/).
